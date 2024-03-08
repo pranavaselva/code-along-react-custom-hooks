@@ -1,7 +1,7 @@
 import './App.css'
 
 import { useState } from 'react';
-import UseStorage from './Component/UseStorage';
+import UseStorage from './UseStorage';
 
 
 function App() {
